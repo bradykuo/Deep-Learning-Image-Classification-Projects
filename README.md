@@ -139,11 +139,13 @@ Feel free to submit issues and enhancement requests!
 ### CIFAR10 Project
 - CIFAR10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html
 - VGG19 architecture: https://pytorch.org/vision/0.12/generated/torchvision.models.vgg19.html
+- VGG19_references: https://reurl.cc/rvpRXZ
 
 ### Cat-Dog Project
-1. Deep Residual Learning for Image Recognition (ResNet)
-2. Focal Loss for Dense Object Detection
-3. Kaggle Cats and Dogs Dataset
+- Deep Residual Learning for Image Recognition (ResNet)
+- Focal Loss for Dense Object Detection
+- Kaggle Cats and Dogs Dataset
+- ResNet50_reference: https://reurl.cc/Ord4z3
 
 ## License
 
