@@ -132,7 +132,7 @@ python catdog_train.py
 
 ## Contributing
 
-Feel free to submit issues and enhancement requests!
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## References
 
