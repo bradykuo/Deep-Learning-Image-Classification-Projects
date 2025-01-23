@@ -1,5 +1,7 @@
 # Deep Learning Image Classification Projects
-This repository contains two deep learning image classification projects: CIFAR10 Classification using VGG19 and Cat-Dog Classification using ResNet50. Both projects feature PyQt5-based GUI interfaces for visualization and inference.
+This repository contains two deep learning image classification projects: CIFAR10 Classification using VGG19 and Cat-Dog Classification using ResNet50. Both projects feature PyQt5-based GUI interfaces for visualization and inference.<br>
+<br>
+（成大資工系｜影像處理、電腦視覺及深度學習概論｜作業）
 
 ## Prerequisites
 
